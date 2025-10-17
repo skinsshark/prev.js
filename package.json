@@ -1,0 +1,15 @@
+{
+  "name": "create-prev-app",
+  "version": "0.1.0",
+  "description": "next.js but the other way",
+  "bin": {
+    "create-prev-app": "./index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "next",
+    "nextjs"
+  ],
+  "author": "Sharon Zheng",
+  "license": "MIT"
+}
